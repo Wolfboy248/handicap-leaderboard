@@ -2,7 +2,7 @@ const ranks = document.querySelector('#ranks');
 
 const scores = [
     {name: "Mads", time: "4:36", video: "Coming soon", day: "08/04/25"},
-    {name: "Mads", time: "4:36", video: "Coming soon", day: "08/04/25"},
+    {name: "William", time: "1:35", video: "Coming soon", day: "08/04/25"},
 ]
 
 let delay = 0.2;
